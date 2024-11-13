@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514e4bd182e463e41a62c97ab77f2672, type: 3}
+  m_Name: quiz 1
+  m_EditorClassIdentifier: 
+  id: resposta Puzzle1
+  itemName: resposta Puzzle1
+  itemDescription: resposta del puzzle 1 (es part de un altrea codi
+  itemIcon: {fileID: -557093364, guid: 702170a7ffc56e64d9b628628f11faee, type: 3}
+  itemPrefab: {fileID: 0}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 514e4bd182e463e41a62c97ab77f2672, type: 3}
+  m_Name: "Pe\xE7aDigestor2"
+  m_EditorClassIdentifier: 
+  id: "Pe\xE7aDigestor2"
+  itemName: "Pe\xE7aDigestor2"
+  itemDescription: "Pe\xE7aDigestor2"
+  itemIcon: {fileID: 0}
+  itemPrefab: {fileID: 0}
